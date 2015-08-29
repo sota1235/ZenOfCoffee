@@ -2,7 +2,7 @@
   "name": "zen-of-coffee",
   "version": "0.0.1",
   "description": "CoffeeScript functions library inspired Python",
-  "main": "index.coffee",
+  "main": "scripts/main.coffee",
   "scripts": {
     "test": "mocha --compilers coffee:coffee-script/register tests/test.coffee"
   },
