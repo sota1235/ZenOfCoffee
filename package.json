@@ -1,0 +1,30 @@
+{
+  "name": "zen-of-coffee",
+  "version": "0.0.1",
+  "description": "CoffeeScript functions library inspired Python",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register test/test.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sota1235/ZenOfCoffee.git"
+  },
+  "keywords": [
+    "CoffeeScript",
+    "Python",
+    "utilities"
+  ],
+  "author": "sota1235",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.3"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "bugs": {
+    "url": "https://github.com/sota1235/ZenOfCoffee/issues"
+  },
+  "homepage": "https://github.com/sota1235/ZenOfCoffee"
+}

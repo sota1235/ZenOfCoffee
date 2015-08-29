@@ -1,6 +1,8 @@
 Zen Of Coffee
 ====
 
+[![Build Status](https://travis-ci.org/sota1235/ZenOfCoffee.svg)](https://travis-ci.org/sota1235/ZenOfCoffee) [![npm version](https://badge.fury.io/js/zen-of-coffee.svg)](http://badge.fury.io/js/zen-of-coffee)
+
 Cloning some functions from Python to CoffeeScript.
 
 ### Description
